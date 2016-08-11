@@ -11,3 +11,4 @@ some text`ths is code inline
 print(5)
 library(RSQLite)
 a<-"look at this string")
+this breaks things
